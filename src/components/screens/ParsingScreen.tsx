@@ -4,6 +4,8 @@ import { Card, CardContent } from '../ui/card';
 import { Progress } from '../ui/progress';
 import { ArrowLeft, FileText, Search, Map, TrendingUp, AlertCircle } from 'lucide-react';
 import type { Screen, AppState, CreditAction } from '../../App';
+import type { AnalysisResponse } from '@/types/credit';
+import { analyzeCreditReport } from '@/lib/api';
 
 interface ParsingScreenProps {
   onNavigate: (screen: Screen) => void;
@@ -18,116 +20,7 @@ const PARSING_STAGES = [
   { id: 'scoring', label: 'Scoring', icon: TrendingUp, description: 'Calculating recommendations' },
 ];
 
-const MOCK_ACTIONS: CreditAction[] = [
-  {
-    id: '1',
-    name: 'Negotiate APR on Chase Sapphire',
-    category: 'credit-cards',
-    description: 'Contact Chase to request a lower APR based on your payment history',
-    estimatedSavings: 420,
-    timeToComplete: '15 min',
-    effort: 'Low',
-    impact: 'High',
-    scoreImpact: 0,
-    steps: [
-      'Call the number on the back of your card',
-      'Ask to speak with the retention department',
-      'Mention your good payment history and request a rate reduction',
-      'If declined, ask about temporary promotional rates'
-    ],
-    requiredInputs: ['Current APR', 'Account tenure', 'Payment history']
-  },
-  {
-    id: '2',
-    name: 'Balance transfer to 0% intro card',
-    category: 'credit-cards',
-    description: 'Move high-interest debt to a new card with 0% introductory APR',
-    estimatedSavings: 610,
-    timeToComplete: '30 min',
-    effort: 'Medium',
-    impact: 'High',
-    scoreImpact: -5,
-    steps: [
-      'Research 0% balance transfer offers',
-      'Apply for the best card for your profile',
-      'Once approved, initiate balance transfers',
-      'Set up autopay for minimum payments'
-    ],
-    requiredInputs: ['Current balances', 'Credit score range', 'Income']
-  },
-  {
-    id: '3',
-    name: 'Set card autopay above minimum',
-    category: 'credit-cards',
-    description: 'Automate payments to avoid late fees and reduce balances faster',
-    estimatedSavings: 300,
-    timeToComplete: '2 min',
-    effort: 'Low',
-    impact: 'Medium',
-    scoreImpact: 15,
-    steps: [
-      'Log into your credit card account',
-      'Go to autopay settings',
-      'Set payment to at least $25 above minimum',
-      'Confirm payment date is before due date'
-    ],
-    requiredInputs: ['Bank account information', 'Preferred payment amount']
-  },
-  {
-    id: '4',
-    name: 'Refinance auto loan',
-    category: 'loans',
-    description: 'Get a lower rate on your auto loan with current improved credit',
-    estimatedSavings: 480,
-    timeToComplete: '45 min',
-    effort: 'High',
-    impact: 'High',
-    scoreImpact: 0,
-    steps: [
-      'Check current loan balance and rate',
-      'Get quotes from 3-5 lenders',
-      'Compare total costs including fees',
-      'Submit application with best offer'
-    ],
-    requiredInputs: ['Vehicle information', 'Current loan details', 'Income verification']
-  },
-  {
-    id: '5',
-    name: 'Dispute incorrect address',
-    category: 'credit-report',
-    description: 'Remove outdated address that may be affecting credit applications',
-    estimatedSavings: 0,
-    timeToComplete: '20 min',
-    effort: 'Medium',
-    impact: 'Low',
-    scoreImpact: 5,
-    steps: [
-      'Gather documentation of current address',
-      'File dispute online with each bureau',
-      'Upload supporting documents',
-      'Monitor dispute status for 30 days'
-    ],
-    requiredInputs: ['Proof of current address', 'Bureau account access']
-  },
-  {
-    id: '6',
-    name: 'Freeze credit for security',
-    category: 'security',
-    description: 'Prevent unauthorized new account openings',
-    estimatedSavings: 0,
-    timeToComplete: '3 min',
-    effort: 'Low',
-    impact: 'Medium',
-    scoreImpact: 0,
-    steps: [
-      'Visit each bureau website',
-      'Create account if needed',
-      'Request security freeze',
-      'Save PIN/password for future unfreezing'
-    ],
-    requiredInputs: ['Personal information', 'Email address']
-  }
-];
+// No MOCK actions: rely on API analysis response only.
 
 export function ParsingScreen({ onNavigate, state, updateState }: ParsingScreenProps) {
   const [currentStage, setCurrentStage] = useState(0);
@@ -135,59 +28,68 @@ export function ParsingScreen({ onNavigate, state, updateState }: ParsingScreenP
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const parseFiles = async () => {
-      // Simulate file parsing with realistic timing
+    let cancelled = false;
+
+    // Staged progress animation (non-blocking)
+    const runProgress = async () => {
       for (let i = 0; i <= PARSING_STAGES.length; i++) {
-        if (i < PARSING_STAGES.length) {
-          setCurrentStage(i);
-        }
-        
-        // Update progress over time for each stage
+        if (cancelled) return;
+        if (i < PARSING_STAGES.length) setCurrentStage(i);
         const stageProgress = (i / PARSING_STAGES.length) * 100;
         let localProgress = 0;
-        
-        while (localProgress <= 100) {
-          setProgress(stageProgress + (localProgress / PARSING_STAGES.length));
-          await new Promise(resolve => setTimeout(resolve, 50));
+        while (!cancelled && localProgress <= 100) {
+          setProgress(stageProgress + localProgress / PARSING_STAGES.length);
+          await new Promise((r) => setTimeout(r, 50));
           localProgress += Math.random() * 10;
         }
       }
-
-      // Check for potential errors (simulate edge cases)
-      const hasPasswordProtectedFile = state.files.some(f => f.name.includes('password'));
-      const hasUnreadableFile = state.files.some(f => f.size < 1000); // Very small files
-      
-      if (hasPasswordProtectedFile) {
-        setError('Password-protected file detected. Please upload an unlocked version.');
-        return;
-      }
-      
-      if (hasUnreadableFile) {
-        setError('File appears to be corrupted or unreadable. Please try a different format.');
-        return;
-      }
-
-      // Success - update state with mock data
-      updateState({
-        actions: MOCK_ACTIONS,
-        creditScore: 720,
-        totalDebt: 15420,
-        monthlyPayments: 850,
-        files: state.files.map(f => ({ ...f, status: 'parsed' as const }))
-      });
-
-      // Brief pause before navigating
-      await new Promise(resolve => setTimeout(resolve, 500));
-      onNavigate('results');
     };
 
-    parseFiles();
-  }, [state.files, updateState, onNavigate]);
+    const runAnalysis = async () => {
+      try {
+        const rawFile = window.__nbaFile as File | undefined;
+        if (!rawFile) {
+          setError('No file found to analyze. Please upload again.');
+          return;
+        }
+        const resp: AnalysisResponse = await analyzeCreditReport(rawFile);
+        if (cancelled) return;
+        updateState({ analysis: resp });
+        onNavigate('results');
+      } catch (e: unknown) {
+        if (cancelled) return;
+        const msg = e instanceof Error ? e.message : 'Analysis failed. Please try again.';
+        setError(msg);
+      }
+    };
+
+    runProgress();
+    runAnalysis();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [updateState, onNavigate]);
 
   const handleRetry = () => {
     setError(null);
     setCurrentStage(0);
     setProgress(0);
+    // Re-run analysis after a brief tick to let state reset
+    setTimeout(() => {
+      const rawFile = window.__nbaFile as File | undefined;
+      if (rawFile) {
+        analyzeCreditReport(rawFile)
+          .then((resp: AnalysisResponse) => {
+            updateState({ analysis: resp });
+            onNavigate('results');
+          })
+          .catch((e: unknown) => {
+            const msg = e instanceof Error ? e.message : 'Analysis failed. Please try again.';
+            setError(msg);
+          });
+      }
+    }, 0);
   };
 
   const handleSkipAuth = () => {

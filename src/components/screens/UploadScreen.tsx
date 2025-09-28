@@ -14,6 +14,7 @@ interface UploadScreenProps {
 
 export function UploadScreen({ onNavigate, state, updateState }: UploadScreenProps) {
   const [dragActive, setDragActive] = useState(false);
+  const [rawFiles, setRawFiles] = useState<File[]>([]);
   const [consents, setConsents] = useState({
     parseReport: false,
     analyzeAccounts: false,
@@ -49,6 +50,7 @@ export function UploadScreen({ onNavigate, state, updateState }: UploadScreenPro
   };
 
   const handleFiles = (files: File[]) => {
+    setRawFiles(prev => [...prev, ...files]);
     const newFiles: CreditFile[] = files.map(file => ({
       id: Math.random().toString(36).substring(2, 11),
       name: file.name,
@@ -77,7 +79,12 @@ export function UploadScreen({ onNavigate, state, updateState }: UploadScreenPro
 
   const handleContinue = () => {
     if (state.files.length > 0 && allConsentsChecked) {
-      onNavigate('parsing');
+      const firstFile = rawFiles[0];
+      if (firstFile) {
+        // Temporary bridge so ParsingScreen can access the raw File
+        window.__nbaFile = firstFile;
+      }
+      updateState({ currentScreen: 'parsing' });
     }
   };
 

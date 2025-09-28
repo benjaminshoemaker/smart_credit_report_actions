@@ -1,0 +1,3271 @@
+
+> server@1.0.0 analyze
+> node cli.js /Users/coding/Downloads/Annual Credit Report - Experian.pdf --dump-text
+
+
+
+Prepared For
+BENJAMIN SHOEMAKER
+Personal & Confidential
+Date Generated Sep 15, 2025
+Report Number 2007-8069-70
+18 Accounts0 Public Records0 Hard Inquiries
+Personal Information
+7 11 3 4 
+Because your personal information is reported by you, your creditors, and other sources, it's typical to
+see small variations in reported personal information, like names and addresses. For security
+reasons, many of these items can't be disputed online, but don't worry—they don't affect your credit
+score.
+At a
+Glance
+NamesAddressesEmployersOther Records
+Names
+BEN SHOEMAKER
+Name ID #14716
+BENJAMIN N
+SHOEMAKER
+Name ID #14945
+BEN N
+SHOEMAKER
+Name ID #20727
+BENJAMIN
+SHOEMAKER
+Name ID #15081
+BENJAMIN NOEL
+SHOEMAKER
+Name ID #8765
+BENSHOEMAKER
+N SHOEMAKER
+Name ID #27955
+BEN NOEL
+SHOEMAKER
+Name ID #29193
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI1/44
+
+Addresses
+4554 191ST SE
+AVE
+ISSAQUAH WA,
+98027-9321
+Address ID
+#0200398960
+Single family
+4546 FOREST SE
+AVE
+MERCER ISLAND
+WA, 98040-4305
+Address ID
+#0200627716
+Single family
+1504 LIPAN TRL
+AUSTIN TX,
+78733-1936
+Address ID
+#0371045963
+Single family
+3220 DUVAL RD
+APT1812
+AUSTIN TX,
+78759-3528
+Address ID
+#0158668043
+Apartment
+complex
+11210 RANCH
+ROAD 2222
+APT6306
+AUSTIN TX,
+78730-0006
+Address ID
+#0823318952
+Apartment
+complex
+103 W SAINT
+JOHNS AVE
+AUSTIN TX,
+78752-2413
+Address ID
+#0158559166
+Single family
+3115 TOM GREEN
+ST APT402
+AUSTIN TX,
+78705-3046
+Address ID
+#0158237281
+Apartment
+complex
+7934 LAKE VIEW
+LN
+MERCER ISLAND
+WA, 98040-5658
+Address ID
+#0217032204
+Single family
+701 HARRIS AVE
+AUSTIN TX,
+78705-2517
+Address ID
+#0158235544
+Single family
+11210 RANCH
+ROAD 2309
+AUSTIN TX, 78730
+Address ID
+#0825399171
+Single family
+710 98TH NE AVE
+BELLEVUE WA,
+98004-4915
+Address ID
+#0200121404
+Single family
+Year of Birth
+1990
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI2/44
+
+Accounts
+Includes credit cards, real estate loans and installment loans. This information is reported to the
+credit bureaus from your creditors.
+Phone Numbers
+(206) 232-6147
+Residential
+(206) 778-9313
+Cellular
+Spouse or Co-Applicant
+JENNIFER
+Employers
+INDEED INCINDEEDUNIVERSITY OF TEXAS
+AMERICAN EXPRESS
+
+Account Info
+Account NameAMERICAN EXPRESS
+Account Number3499929998651283
+Account TypeCredit card
+ResponsibilityIndividual
+Date Opened06/17/2022
+StatusOpen/Never late.
+Status UpdatedAug 2025
+Balance$1,109
+Balance Updated08/17/2025
+Recent Payment-
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI3/44
+
+Monthly Payment$40
+Credit Limit$35,000
+Highest Balance$2,432
+Terms-
+
+Payment History
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Jul 2025$1,926$40$0
+Jun 2025$1,366$40$0
+May 2025$2,432$48$0
+Apr 2025$91$40$0
+Mar 2025$1,772$40$0
+Feb 2025$1,741$40$0
+Jan 2025$2,032$40$0
+Dec 2024$1,885$40$0
+Nov 2024$1,812$40$0
+Oct 2024$1,607$40$0
+Sep 2024$1,560$40$0
+Aug 2024$1,772$40$0
+Jul 2024$1,705$40$0
+2025
+2024
+2023
+2022
+J
+
+
+
+—
+F
+
+
+
+—
+M
+
+
+
+—
+A
+
+
+
+—
+M
+
+
+
+—
+J
+
+
+
+—
+J
+
+
+
+
+A
+
+
+
+
+S
+—
+
+
+
+O
+—
+
+
+
+N
+—
+
+
+
+D
+—
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI4/44
+
+DateBalanceScheduled PaymentPaid
+Jun 2024$2,359$47$0
+May 2024$617$40$0
+Apr 2024$1,840$40$0
+Mar 2024$2,295$45$0
+Feb 2024$1,855$40$0
+Jan 2024$1,969$40$0
+Dec 2023$1,544$40$0
+Nov 2023$1,702$40$0
+Oct 2023$1,445$40$0
+Sep 2023$1,873$40$0
+Additional info
+Between Sep 2023 and Jul 2025, your credit limit/high balance was $35,000
+
+Contact Info
+AddressPO BOX 981537,
+EL PASO TX 79998
+Phone Number(800) 874-2717
+CALIBER HOME LOANS, INC.
+
+Account Info
+Account NameCALIBER HOME LOANS, INC.
+Account Number970231XXXX
+Account TypeMortgage
+ResponsibilityIndividual
+Date Opened07/11/2016
+StatusTransferred,closed/Never late.
+Status UpdatedDec 2019
+Balance-
+Balance Updated-
+Recent Payment-
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI5/44
+
+Monthly Payment-
+Original Balance$417,000
+Highest Balance-
+Terms30 Years
+On Record UntilDec 2029
+Mortgage Agency NameFreddie Mac ID
+Mortgage Identification Number100820929062877382
+
+Payment History
+This account is scheduled to continue on record until Dec 2029.
+
+Contact Info
+AddressPO BOX 24610,
+OKLAHOMA CITY OK 73124
+
+Comment
+Current:
+Transferred to another lender
+Previous:
+None
+2019
+2018
+2017
+2016
+J
+
+
+
+—
+F
+
+
+
+—
+M
+
+
+
+—
+A
+
+
+
+—
+M
+
+
+
+—
+J
+
+
+
+—
+J
+
+
+
+
+A
+
+
+
+
+S
+
+
+
+
+O
+
+
+
+
+N
+
+
+
+
+D
+CLS
+
+
+
+Current / Terms metCLSClosed
+CAPITAL ONE
+
+Account Info
+Account NameCAPITAL ONE
+Account Number414709XXXXXXXXXX
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI6/44
+
+Account TypeCredit Card
+ResponsibilityIndividual
+Date Opened08/15/2017
+StatusPaid, Closed/Never late.
+Status UpdatedDec 2022
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Credit Limit$15,000
+Highest Balance$3,451
+Terms-
+On Record UntilDec 2032
+
+Payment History
+This account is scheduled to continue on record until Dec 2032.
+
+Contact Info
+AddressPO BOX 31293,
+SALT LAKE CITY UT 84131
+Phone Number(800) 955-7070
+
+Comment
+Current:
+Account closed at credit grantor's request.
+Previous:
+2022
+2021
+2020
+2019
+2018
+2017
+J
+
+
+
+
+
+—
+F
+
+
+
+
+
+—
+M
+
+
+
+
+
+—
+A
+
+
+
+
+
+—
+M
+
+
+
+
+
+—
+J
+
+
+
+
+
+—
+J
+
+
+
+
+
+—
+A
+
+
+
+
+
+—
+S
+
+
+
+
+
+
+O
+
+
+
+
+
+
+N
+
+
+
+
+
+
+D
+CLS
+
+
+
+
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI7/44
+
+None
+DISCOVER CARD
+
+Account Info
+Account NameDISCOVER CARD
+Account Number601100XXXXXXXXXX
+Account TypeCredit card
+ResponsibilityIndividual
+Date Opened11/15/2013
+StatusOpen/Never late.
+Status UpdatedAug 2025
+Balance$0
+Balance Updated08/27/2025
+Recent Payment-
+Monthly Payment$0
+Credit Limit$6,000
+Highest Balance$908
+Terms-
+
+Payment History
+
+Balance Histories
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+J
+
+
+
+
+
+
+
+—
+F
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+S
+—
+
+
+
+
+
+
+
+O
+—
+
+
+
+
+
+
+
+N
+—
+
+
+
+
+
+
+
+D
+—
+
+
+
+
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI8/44
+
+DateBalanceScheduled PaymentPaid
+Jul 2025$0$0$0 on 6/17/2025
+Jun 2025$0$0$0 on 6/17/2025
+May 2025$78$20$0 on 5/18/2025
+Apr 2025$24$20$0 on 4/17/2025
+Mar 2025$36$20$0 on 3/17/2025
+Feb 2025$100$20$0 on 2/17/2025
+Jan 2025$267$20$0 on 1/17/2025
+Dec 2024$68$20$0 on 12/17/2024
+Nov 2024$155$20$0 on 11/17/2024
+Oct 2024$73$20$0 on 10/17/2024
+Sep 2024$211$20$0 on 9/17/2024
+Aug 2024$35$20$0 on 8/18/2024
+Jul 2024$504$20$0 on 7/17/2024
+Jun 2024$908$28$0 on 5/17/2024
+May 2024$0$0$0 on 5/17/2024
+Apr 2024$31$20$0 on 4/17/2024
+Mar 2024$189$20$0 on 3/17/2024
+Feb 2024$22$20$0 on 2/18/2024
+Jan 2024$200$20$0 on 1/17/2024
+Dec 2023$58$20$0 on 12/17/2023
+Nov 2023$341$20$0 on 11/17/2023
+Oct 2023$143$20$0 on 10/17/2023
+Sep 2023$164$20$0 on 9/17/2023
+Additional info
+Between Sep 2023 and Jul 2025, your credit limit/high balance was $6,000
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI9/44
+
+
+Contact Info
+AddressPO BOX 30939,
+SALT LAKE CITY UT 84130
+Phone Number(800) 347-2683
+FLAGSTAR BANK
+
+Account Info
+Account NameFLAGSTAR BANK
+Account Number646044XXXXXXX
+Account TypeMortgage
+ResponsibilityIndividual
+Date Opened07/11/2016
+StatusPaid, Closed/Never late.
+Status UpdatedMay 2022
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$417,000
+Highest Balance-
+Terms30 Years
+On Record UntilMay 2032
+Mortgage Agency NameFreddie Mac ID
+
+Payment History
+This account is scheduled to continue on record until May 2032.
+
+Contact Info
+2022
+2021
+2020
+J
+
+
+
+F
+
+
+
+M
+
+
+
+A
+
+
+
+M
+CLS
+
+
+J
+—
+
+
+J
+—
+
+
+A
+—
+
+
+S
+—
+
+
+O
+—
+
+
+N
+—
+
+
+D
+—
+
+
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI10/44
+
+Address5151 CORPORATE DR,
+TROY MI 48098
+Phone Number(866) 945-9872
+GUILD MORTGAGE COMPANY
+
+Account Info
+Account NameGUILD MORTGAGE COMPANY
+Account Number860102XXXX
+Account TypeMortgage
+ResponsibilityJoint with JENNIFER ANN RINEHART
+Date Opened05/12/2022
+StatusPaid, Closed/Never late.
+Status UpdatedJune 2022
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$1,704,000
+Highest Balance-
+Terms30 Years
+On Record UntilJun 2032
+Mortgage Identification Number100019986010292081
+
+Payment History
+This account is scheduled to continue on record until Jun 2032.
+
+Historical Info
+Company SoldWELLS FARGO BANK N.A. 4800
+
+Contact Info
+2022
+J
+—
+F
+—
+M
+—
+A
+—
+M
+
+J
+CLS
+J
+—
+A
+—
+S
+—
+O
+—
+N
+—
+D
+—
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI11/44
+
+Address5898 COPLEY DR,
+SAN DIEGO CA 92111
+Phone Number(858) 560-6330
+
+Comment
+Current:
+Purchased by another lender.
+Previous:
+None
+JPMCB AUTO
+
+Account Info
+Account NameJPMCB AUTO
+Account Number116256XXXXXXXX
+Account TypeAuto Loan
+ResponsibilityIndividual
+Date Opened08/25/2016
+StatusPaid, Closed/Never late.
+Status UpdatedFeb 2021
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$16,003
+Highest Balance-
+Terms60 Months
+On Record UntilFeb 2031
+
+Payment History
+2021
+2020
+2019
+J
+
+
+
+F
+CLS
+
+
+M
+—
+
+
+A
+—
+
+
+M
+—
+
+
+J
+—
+
+
+J
+—
+
+
+A
+—
+
+
+S
+—
+
+
+O
+—
+
+
+N
+—
+
+
+D
+—
+
+
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI12/44
+
+This account is scheduled to continue on record until Feb 2031.
+
+Contact Info
+Address700 KANSAS LN MAIL CODE LA,
+MONROE LA 71203
+Phone Number(800) 336-6675
+2018
+2017
+2016
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+—
+
+
+
+
+
+
+
+
+
+Current / Terms metCLSClosed
+JPMCB CARD
+
+Account Info
+Account NameJPMCB CARD
+Account Number414720XXXXXXXXXX
+Account TypeCredit Card
+ResponsibilityIndividual
+Date Opened01/24/2019
+StatusOpen/Never late.
+Status UpdatedSep 2025
+Balance$7,328
+Balance Updated09/05/2025
+Recent Payment-
+Monthly Payment$73
+Credit Limit$15,000
+Highest Balance$18,441
+Terms-
+
+Payment History
+2025
+2024
+2023
+J
+
+
+
+F
+
+
+
+M
+
+
+
+A
+
+
+
+M
+
+
+
+J
+
+
+
+J
+
+
+
+A
+
+
+
+S
+
+
+
+O
+—
+
+
+N
+—
+
+
+D
+—
+
+
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI13/44
+
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Aug 2025$5,544$55$0 on 8/3/2025
+Jul 2025$6,286$62$0 on 7/3/2025
+Jun 2025$6,549$65$0 on 6/3/2025
+May 2025$6,205$62$0 on 4/15/2025
+Apr 2025$5,313$53$0 on 4/3/2025
+Mar 2025$5,290$52$0 on 3/3/2025
+Feb 2025$5,599$55$0 on 2/3/2025
+Jan 2025$3,729$40$0 on 1/3/2025
+Dec 2024$7,089$70$0 on 12/3/2024
+Nov 2024$3,956$40$0 on 11/3/2024
+Oct 2024$5,195$51$0 on 10/3/2024
+Sep 2024$5,581$55$0 on 9/3/2024
+Aug 2024$5,346$53$0 on 8/2/2024
+Jul 2024$9,326$93$0 on 7/3/2024
+Jun 2024$5,698$56$0 on 6/3/2024
+May 2024$5,045$50$0 on 5/3/2024
+Apr 2024$5,178$51$0 on 4/3/2024
+Mar 2024$3,059$40$0 on 2/5/2024
+Feb 2024$152$40$0 on 2/5/2024
+2022
+2021
+2020
+2019
+
+
+
+—
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI14/44
+
+DateBalanceScheduled PaymentPaid
+Jan 2024$0$0$0 on 1/8/2024
+Dec 2023$3,242$40$0 on 11/28/2023
+Nov 2023$4,523$45$0 on 11/3/2023
+Oct 2023$4,420$44$0 on 10/3/2023
+Sep 2023$8,644$86$0 on 9/3/2023
+Additional info
+Between Sep 2023 and Aug 2025, your credit limit/high balance was $15,000
+
+Contact Info
+AddressPO BOX 15369,
+WILMINGTON DE 19850
+Phone Number(800) 945-2000
+JPMCB CARD
+
+Account Info
+Account NameJPMCB CARD
+Account Number414720XXXXXXXXXX
+Account TypeCredit Card
+ResponsibilityIndividual
+Date Opened01/10/2017
+StatusOpen/Never late.
+Status UpdatedAug 2025
+Balance$2,192
+Balance Updated08/25/2025
+Recent Payment-
+Monthly Payment$40
+Credit Limit$29,000
+Highest Balance$19,022
+Terms-
+
+Payment History
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI15/44
+
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Jul 2025$2,180$40$0 on 7/22/2025
+Jun 2025$1,666$40$0 on 6/22/2025
+May 2025$1,963$40$0 on 5/22/2025
+Apr 2025$19,022$190$0 on 4/15/2025
+Mar 2025$1,680$40$0 on 3/21/2025
+Feb 2025$1,420$40$0 on 2/21/2025
+Jan 2025$4,969$49$0 on 1/22/2025
+Dec 2024$875$40$0 on 12/22/2024
+Nov 2024$3,803$40$0 on 11/22/2024
+Oct 2024$1,822$40$0 on 10/22/2024
+Sep 2024$4,613$46$0 on 9/22/2024
+Aug 2024$1,627$40$0 on 8/22/2024
+Jul 2024$1,313$40$0 on 7/22/2024
+Jun 2024$2,235$40$0 on 6/21/2024
+May 2024$3,925$40$0 on 5/22/2024
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+J
+
+
+
+
+
+
+
+—
+F
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+S
+—
+
+
+
+
+
+
+
+O
+—
+
+
+
+
+
+
+
+N
+—
+
+
+
+
+
+
+
+D
+—
+
+
+
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI16/44
+
+DateBalanceScheduled PaymentPaid
+Apr 2024$4,198$41$0 on 4/22/2024
+Mar 2024$4,470$44$0 on 3/22/2024
+Feb 2024$1,115$40$0 on 2/5/2024
+Jan 2024$743$40$0 on 1/10/2024
+Dec 2023$615$40$0 on 12/12/2023
+Nov 2023$7,233$72$0 on 11/22/2023
+Oct 2023$4,863$48$0 on 10/22/2023
+Sep 2023$6,701$67$0 on 9/22/2023
+Additional info
+Between Sep 2023 and Jul 2025, your credit limit/high balance was $29,000
+
+Contact Info
+AddressPO BOX 15369,
+WILMINGTON DE 19850
+Phone Number(800) 945-2000
+JPMCB CARD
+
+Account Info
+Account NameJPMCB CARD
+Account Number426684XXXXXXXXXX
+Account TypeCredit card
+ResponsibilityIndividual
+Date Opened11/18/2013
+StatusOpen/Never late.
+Status UpdatedSep 2025
+Balance$199
+Balance Updated09/05/2025
+Recent Payment-
+Monthly Payment$40
+Credit Limit$1,500
+Highest Balance$1,542
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI17/44
+
+Terms-
+
+Payment History
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Aug 2025$90$40$0 on 8/1/2025
+Jul 2025$90$40$0 on 7/2/2025
+Jun 2025$90$40$0 on 6/2/2025
+May 2025$94$40$0 on 5/2/2025
+Apr 2025$219$40$0 on 4/2/2025
+Mar 2025$148$40$0 on 3/2/2025
+Feb 2025$115$40$0 on 2/2/2025
+Jan 2025$148$40$0 on 1/2/2025
+Dec 2024$138$40$0 on 12/2/2024
+Nov 2024$144$40$0 on 11/1/2024
+Oct 2024$114$40$0 on 10/2/2024
+Sep 2024$135$40$0 on 9/2/2024
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+J
+
+
+
+
+
+
+
+—
+F
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+S
+
+
+
+
+
+
+
+—
+O
+—
+
+
+
+
+
+
+
+N
+—
+
+
+
+
+
+
+
+D
+—
+
+
+
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI18/44
+
+DateBalanceScheduled PaymentPaid
+Aug 2024$148$40$0 on 8/2/2024
+Jul 2024$151$40$0 on 7/2/2024
+Jun 2024$166$40$0 on 6/2/2024
+May 2024$148$40$0 on 5/2/2024
+Apr 2024$148$40$0 on 4/2/2024
+Mar 2024$148$40$0 on 3/1/2024
+Feb 2024$148$40$0 on 1/8/2024
+Jan 2024$0$0$0 on 1/8/2024
+Dec 2023$0$0$0 on 12/12/2023
+Nov 2023$148$40$0 on 11/2/2023
+Oct 2023$147$40$0 on 10/2/2023
+Sep 2023$119$40$0 on 9/1/2023
+Additional info
+Between Sep 2023 and Aug 2025, your credit limit/high balance was $1,500
+
+Contact Info
+AddressPO BOX 15369,
+WILMINGTON DE 19850
+Phone Number(800) 945-2000
+JPMCB CARD
+
+Account Info
+Account NameJPMCB CARD
+Account Number464018XXXXXXXXXX
+Account TypeCredit Card
+ResponsibilityIndividual
+Date Opened08/24/2014
+StatusOpen/Never late.
+Status UpdatedAug 2025
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI19/44
+
+Balance$513
+Balance Updated08/22/2025
+Recent Payment-
+Monthly Payment$35
+Credit Limit$3,500
+Highest Balance$5,120
+Terms-
+
+Payment History
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Jul 2025$735$35$0 on 7/20/2025
+Jun 2025$219$35$0 on 6/20/2025
+May 2025$117$35$0 on 5/20/2025
+Apr 2025$312$35$0 on 4/20/2025
+Mar 2025$424$35$0 on 3/20/2025
+Feb 2025$195$35$0 on 2/20/2025
+Jan 2025$347$35$0 on 1/20/2025
+Dec 2024$1,704$35$0 on 12/20/2024
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+J
+
+
+
+
+
+
+
+—
+F
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+S
+—
+
+
+
+
+
+
+
+O
+—
+
+
+
+
+
+
+
+N
+—
+
+
+
+
+
+
+
+D
+—
+
+
+
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI20/44
+
+DateBalanceScheduled PaymentPaid
+Nov 2024$359$35$0 on 11/20/2024
+Oct 2024$454$35$0 on 10/20/2024
+Sep 2024$157$35$0 on 9/20/2024
+Aug 2024$452$35$0 on 8/20/2024
+Jul 2024$202$35$0 on 7/19/2024
+Jun 2024$273$35$0 on 6/20/2024
+May 2024$174$35$0 on 5/20/2024
+Apr 2024$614$35$0 on 4/19/2024
+Mar 2024$45$35$0 on 3/20/2024
+Feb 2024$306$35$0 on 2/20/2024
+Jan 2024$45$35$0 on 1/8/2024
+Dec 2023$690$35$0 on 12/12/2023
+Nov 2023$540$35$0 on 11/20/2023
+Oct 2023$273$35$0 on 10/20/2023
+Sep 2023$559$35$0 on 9/20/2023
+Additional info
+Between Sep 2023 and Jul 2025, your credit limit/high balance was $3,500
+
+Contact Info
+AddressPO BOX 15369,
+WILMINGTON DE 19850
+Phone Number(800) 945-2000
+JPMCB CARD
+
+Account Info
+Account NameJPMCB CARD
+Account Number554608XXXXXXXXXX
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI21/44
+
+Account TypeCredit Card
+ResponsibilityAuthorized user
+Date Opened11/01/1992
+StatusOpen/Never late.
+Status UpdatedSep 2025
+Balance$8,871
+Balance Updated09/02/2025
+Recent Payment-
+Monthly Payment$88
+Credit Limit$50,500
+Highest Balance$46,405
+Terms-
+
+Payment History
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Aug 2025$9,065$90$0 on 7/27/2025
+Jul 2025$10,783$107$0 on 6/27/2025
+Jun 2025$13,314$133$0 on 5/27/2025
+May 2025$11,675$116$0 on 4/27/2025
+Apr 2025$10,988$109$0 on 3/27/2025
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+J
+
+
+
+
+
+
+
+—
+F
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+M
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+J
+
+
+
+
+
+
+
+—
+A
+
+
+
+
+
+
+
+—
+S
+
+
+
+
+
+
+
+—
+O
+—
+
+
+
+
+
+
+
+N
+—
+
+
+
+
+
+
+
+D
+—
+
+
+
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI22/44
+
+DateBalanceScheduled PaymentPaid
+Mar 2025$8,109$81$0 on 2/27/2025
+Feb 2025$22,480$321$0 on 1/23/2025
+Jan 2025$34,777$868$0 on 12/13/2024
+Dec 2024$24,978$559$0 on 11/25/2024
+Nov 2024$12,952$129$0 on 10/27/2024
+Oct 2024$11,675$449$0 on 9/27/2024
+Sep 2024$24,232$736$0 on 8/20/2024
+Aug 2024$37,541$834$0 on 6/27/2024
+Jul 2024$15,630$497$0 on 6/27/2024
+Jun 2024$24,299$512$0 on 5/23/2024
+May 2024$16,308$163$0 on 4/26/2024
+Apr 2024$23,484$234$0 on 3/27/2024
+Mar 2024$10,725$107$0 on 2/27/2024
+Feb 2024$18,263$403$0 on 1/26/2024
+Jan 2024$17,593$390$0 on 12/26/2023
+Dec 2023$7,404$74$0 on 11/27/2023
+Nov 2023$15,550$155$0 on 10/27/2023
+Oct 2023$17,000$170$0 on 9/27/2023
+Sep 2023$10,498$104$0 on 8/27/2023
+Additional info
+Between Sep 2024 and Aug 2025, your credit limit/high balance was $50,500
+Between Sep 2023 and Aug 2024, your credit limit/high balance was $46,500
+
+Contact Info
+AddressPO BOX 15369,
+WILMINGTON DE 19850
+Phone Number(800) 945-2000
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI23/44
+
+U.S.BANK/FM
+
+Account Info
+Account NameU.S.BANK/FM
+Account Number220XXXX
+Account TypeEducation
+ResponsibilitySigner with PAUL D SHOEMAKER
+Date Opened08/26/2010
+StatusPaid, Closed/Never late.
+Status UpdatedMar 2019
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$15,820
+Highest Balance-
+Terms180 Months
+On Record UntilMar 2029
+
+Payment History
+This account is scheduled to continue on record until Mar 2029.
+
+Contact Info
+Address2101 WOODDALE DR STE B,
+WOODBURY MN 55125
+Phone Number(888) 538-7378
+
+Comment
+Current:
+2019
+2018
+J
+
+—
+F
+
+—
+M
+CLS
+—
+A
+—
+—
+M
+—
+—
+J
+—
+—
+J
+—
+—
+A
+—
+—
+S
+—
+
+O
+—
+
+N
+—
+
+D
+—
+
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI24/44
+
+Loan Modified
+Previous:
+None
+U.S.BANK/FM
+
+Account Info
+Account NameU.S.BANK/FM
+Account Number88XXXX
+Account TypeEducation
+ResponsibilitySigner with PAUL D SHOEMAKER
+Date Opened07/25/2011
+StatusPaid, Closed/Never late.
+Status UpdatedNov 2015
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$16,016
+Highest Balance-
+Terms180 Months
+On Record UntilNov 2025
+
+Payment History
+This account is scheduled to continue on record until Nov 2025.
+2015
+2014
+2013
+2012
+2011
+J
+
+
+
+
+—
+F
+
+
+
+
+—
+M
+
+
+
+
+—
+A
+
+
+
+
+—
+M
+
+
+
+
+—
+J
+
+
+
+
+—
+J
+
+
+
+
+—
+A
+
+
+
+
+—
+S
+
+
+
+
+
+O
+
+
+
+
+
+N
+CLS
+
+
+
+
+D
+—
+
+
+
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI25/44
+
+
+Contact Info
+Address2101 WOODDALE DR STE B,
+WOODBURY MN 55125
+Phone Number(888) 538-7378
+UNIVERSITY FED CR UN
+
+Account Info
+Account NameUNIVERSITY FED CR UN
+Account Number901269XXXXXXX
+Account TypeAuto Loan
+ResponsibilityIndividual
+Date Opened07/10/2019
+StatusPaid, Closed/Never late.
+Status UpdatedJul 2019
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$24,212
+Highest Balance-
+Terms48 Months
+On Record UntilJul 2029
+
+Payment History
+This account is scheduled to continue on record until Jul 2029.
+
+Contact Info
+Address8303 N MOPAC EXPY,
+AUSTIN TX 78759
+Phone Number(512) 467-8080
+2019
+J
+—
+F
+—
+M
+—
+A
+—
+M
+—
+J
+—
+J
+CLS
+A
+—
+S
+—
+O
+—
+N
+—
+D
+—
+CLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI26/44
+
+UNIVERSITY FED CR UN
+
+Account Info
+Account NameUNIVERSITY FED CR UN
+Account Number901269XXXXXXX
+Account TypeAuto Loan
+ResponsibilityIndividual
+Date Opened07/29/2019
+StatusPaid, Closed/Never late.
+Status UpdatedAug 2023
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$20,151
+Highest Balance-
+Terms48 Months
+On Record UntilAug 2033
+
+Payment History
+This account is scheduled to continue on record until Aug 2033.
+
+Contact Info
+Address8303 N MOPAC EXPY,
+AUSTIN TX 78759
+Phone Number(512) 467-8080
+2023
+2022
+2021
+2020
+2019
+J
+
+
+
+
+—
+F
+
+
+
+
+—
+M
+
+
+
+
+—
+A
+
+
+
+
+—
+M
+
+
+
+
+—
+J
+
+
+
+
+—
+J
+
+
+
+
+—
+A
+CLS
+
+
+
+
+S
+—
+
+
+
+
+O
+—
+
+
+
+
+N
+—
+
+
+
+
+D
+—
+
+
+
+
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI27/44
+
+WELLS FARGO HOME MORTGAGE
+
+Account Info
+Account NameWELLS FARGO HOME MORTGAGE
+Account Number936061XXXXXXX
+Account TypeMortgage
+ResponsibilityJoint with JENNIFER A RINEHART
+Date Opened05/10/2022
+StatusOpen/Never late.
+Status UpdatedAug 2025
+Balance$1,618,095
+Balance Updated08/12/2025
+Recent Payment$20,693 as of 8/11/2025
+Monthly Payment$10,479
+Original Balance$1,704,000
+Highest Balance-
+Terms30 Years
+Mortgage Identification Number100019986010292081
+
+Payment History
+
+Balance Histories
+DateBalanceScheduled PaymentPaid
+Jul 2025$1,622,954$10,214$10,214 on 6/11/2025
+Jun 2025$1,625,369$10,214$0 on 5/11/2025
+May 2025$1,625,369$10,214$20,428 on 5/11/2025
+Apr 2025$1,630,169$10,214$0 on 3/11/2025
+2025
+2024
+2023
+2022
+J
+
+
+
+—
+F
+
+
+
+—
+M
+
+
+
+—
+A
+
+
+
+—
+M
+
+
+
+—
+J
+
+
+
+—
+J
+
+
+
+—
+A
+
+
+
+—
+S
+—
+
+
+
+O
+—
+
+
+
+N
+—
+
+
+
+D
+—
+
+
+
+
+Current / Terms met
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI28/44
+
+DateBalanceScheduled PaymentPaid
+Mar 2025$1,630,169$10,214$10,214 on 3/11/2025
+Feb 2025$1,632,554$10,214$20,428 on 2/11/2025
+Jan 2025$1,637,296$10,214$10,214 on 12/11/2024
+Dec 2024$1,639,653$10,214$0 on 11/11/2024
+Nov 2024$1,639,653$10,214$20,428 on 11/11/2024
+Oct 2024$1,644,338$10,214$10,214 on 9/11/2024
+Sep 2024$1,646,666$10,214$10,214 on 8/11/2024
+Aug 2024$1,648,984$10,214$10,324 on 7/11/2024
+Jul 2024$1,651,294$10,324$0 on 6/11/2024
+Jun 2024$1,651,294$10,324$20,648 on 6/11/2024
+May 2024$1,655,884$10,324$10,324 on 4/11/2024
+Apr 2024$1,658,166$10,324$0 on 3/11/2024
+Mar 2024$1,658,166$10,324$10,324 on 3/11/2024
+Feb 2024$1,660,438$10,324$20,760 on 2/11/2024
+Jan 2024$1,664,955$10,435$0 on 12/11/2023
+Dec 2023$1,664,955$10,435$20,871 on 12/11/2023
+Nov 2023$1,669,435$10,435$0 on 10/11/2023
+Oct 2023$1,669,435$10,435$10,435 on 10/11/2023
+Sep 2023$1,671,662$10,435$20,871 on 9/11/2023
+Additional info
+The original amount of this account was $1,704,000
+
+Contact Info
+AddressPO BOX 10335,
+DES MOINES IA 50306
+Phone Number(800) 416-1472
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI29/44
+
+WFBNA EDUC
+
+Account Info
+Account NameWFBNA EDUC
+Account Number533978XXXXXXXXXX
+Account TypeEducation
+ResponsibilitySigner with PAUL SHOEMAKER
+Date Opened09/28/2012
+StatusPaid, Closed/Never late.
+Status UpdatedFeb 2019
+Balance-
+Balance Updated-
+Recent Payment-
+Monthly Payment-
+Original Balance$6,000
+Highest Balance-
+Terms165 Months
+On Record UntilFeb 2029
+
+Payment History
+This account is scheduled to continue on record until Feb 2029.
+
+Contact Info
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+J
+
+
+
+
+
+
+
+—
+F
+CLS
+
+
+
+
+
+
+—
+M
+—
+
+
+
+
+
+
+—
+A
+—
+
+
+
+
+
+
+—
+M
+—
+
+
+
+
+
+
+—
+J
+—
+
+
+
+
+
+
+—
+J
+—
+
+
+
+
+
+
+—
+A
+—
+
+
+
+
+
+
+—
+S
+—
+
+
+
+
+
+
+
+O
+—
+
+
+
+
+
+
+
+N
+—
+
+
+
+
+
+
+
+D
+—
+
+
+
+
+
+
+
+
+Current / Terms metCLSClosed
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI30/44
+
+Public Records
+Information gathered from courts or other government agencies about legal matters associated with
+you. The most common Public Records are bankruptcies, tax liens, and monetary judgments.
+Hard Inquiries
+Hard inquiries are requests for your consumer information based on an action or process initiated by
+you generally related to a credit or other monetary obligation, such as when you apply for credit, rental
+property, or utility service, or default on a loan causing it to be sent to a collection agency. Hard
+inquiries are displayed to companies that receive your consumer report and may stay on your report
+at least two years.
+Soft Inquiries
+Soft inquiries are generally initiated by others, like companies making promotional offers or lenders
+periodically reviewing your existing credit accounts. Soft inquiries also include checking your own
+credit report or using credit monitoring services, and have no impact on your credit score.
+AddressPO BOX 71092,
+CHARLOTTE NC 28272
+Phone Number(800) 869-3557
+No public records reported.
+You do not have any hard inquiries
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI31/44
+
+ALLY
+FINANCIAL INC
+Inquired on
+12/06/2024 an
+d 11/06/2024
+1000 N WEST
+ST FL 11,
+WILMINGTON
+DE 19801
+AMERICAN
+EXPRESS 2
+Inquired on
+09/12/2025
+PO BOX
+981537,
+EL PASO TX
+79998
+(800) 874-2717
+AVEN
+FINANCIAL,
+INC
+Inquired on
+08/07/2025
+548 MARKET
+ST # 99555,
+SAN
+FRANCISCO CA
+94104
+BK OF AMER
+Inquired on
+08/26/2025,
+04/22/2025,
+02/26/2025,
+12/19/2024,
+10/23/2024 an
+d 10/17/2024
+1000 SAMOSET
+DR,
+NEWARK DE
+19713
+(800) 421-2110
+CAP ONE NA
+Inquired on
+07/04/2025,
+05/17/2025,
+04/26/2025,
+04/22/2025,
+04/01/2025,
+01/23/2025,
+01/17/2025,
+11/25/2024 an
+d 09/24/2024
+PO BOX 26625,
+RICHMOND VA
+23261
+(804) 965-8671
+COMENITYCAP
+ITAL/AAARWD
+Inquired on
+06/24/2025 an
+d 10/07/2024
+PO BOX
+182120,
+COLUMBUS OH
+43218
+CONSUMERINF
+O.COM
+Inquired on
+09/15/2025
+475 ANTON
+BLVD,
+COSTA MESA
+CA 92626
+CREDIT KARMA
+Inquired on
+09/13/2025,
+09/10/2025,
+09/06/2025,
+09/03/2025,
+09/01/2025,
+08/27/2025,
+08/16/2025,
+08/14/2025,
+08/09/2025,
+08/06/2025,
+08/02/2025,
+07/30/2025,
+07/27/2025,
+07/23/2025,
+07/19/2025,
+07/16/2025,
+07/12/2025,
+07/09/2025,
+07/05/2025,
+07/02/2025,
+06/29/2025,
+06/25/2025,
+06/21/2025,
+06/18/2025,
+06/14/2025,
+06/11/2025,
+06/07/2025,
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI32/44
+
+06/04/2025,
+05/28/2025,
+05/24/2025,
+05/21/2025,
+05/17/2025,
+05/10/2025,
+05/07/2025,
+05/03/2025,
+04/30/2025,
+04/27/2025,
+04/23/2025,
+04/19/2025,
+04/16/2025,
+04/12/2025,
+04/09/2025,
+04/05/2025,
+04/02/2025,
+03/30/2025,
+03/26/2025,
+03/22/2025,
+03/19/2025,
+03/15/2025,
+03/12/2025,
+03/08/2025,
+03/05/2025,
+03/01/2025,
+02/26/2025,
+02/23/2025,
+02/19/2025,
+02/15/2025,
+02/12/2025,
+02/08/2025,
+02/06/2025,
+02/01/2025,
+01/29/2025,
+01/26/2025,
+01/22/2025,
+01/18/2025,
+01/15/2025,
+01/11/2025,
+01/08/2025,
+01/04/2025,
+01/01/2025,
+12/29/2024,
+12/25/2024,
+12/21/2024,
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI33/44
+
+12/18/2024,
+12/14/2024,
+12/11/2024,
+12/07/2024,
+12/04/2024,
+12/01/2024,
+11/27/2024,
+11/23/2024,
+11/20/2024,
+11/16/2024,
+11/13/2024,
+11/09/2024,
+11/06/2024,
+11/02/2024,
+10/30/2024,
+10/27/2024,
+10/23/2024,
+10/19/2024,
+10/16/2024,
+10/12/2024,
+10/09/2024,
+10/02/2024,
+09/28/2024,
+09/25/2024,
+09/21/2024 an
+d 09/18/2024
+760 MARKET
+ST FL 2,
+SAN
+FRANCISCO CA
+94102
+CREDIT KARMA
+Inquired on
+09/13/2025,
+09/12/2025,
+09/11/2025,
+09/10/2025,
+09/07/2025,
+09/01/2025,
+08/29/2025,
+08/28/2025,
+08/27/2025,
+08/20/2025,
+08/16/2025,
+08/15/2025,
+DISCOVER
+Inquired on
+08/05/2025
+2500 LAKE
+COOK RD,
+RIVERWOODS
+IL 60015
+(877) 728-3030
+EXPERIAN
+Inquired on
+09/15/2025
+475 ANTON
+BLVD,
+COSTA MESA
+CA 92626
+EXPERIAN
+Inquired on
+09/14/2025,
+09/07/2025,
+08/31/2025,
+08/24/2025,
+08/17/2025,
+08/10/2025,
+08/03/2025,
+07/27/2025,
+07/20/2025,
+07/13/2025,
+07/06/2025,
+07/04/2025,
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI34/44
+
+08/14/2025,
+08/09/2025,
+08/08/2025,
+08/07/2025,
+08/06/2025,
+08/01/2025,
+07/31/2025,
+07/29/2025,
+07/26/2025,
+07/21/2025,
+07/18/2025,
+07/17/2025,
+07/12/2025,
+07/11/2025,
+07/10/2025,
+07/09/2025,
+07/07/2025,
+07/05/2025,
+07/01/2025,
+06/29/2025,
+06/28/2025,
+06/27/2025,
+06/19/2025,
+06/18/2025,
+06/14/2025,
+06/11/2025,
+06/10/2025,
+06/08/2025,
+06/05/2025,
+06/01/2025,
+05/29/2025,
+05/28/2025,
+05/23/2025,
+05/22/2025,
+05/21/2025,
+05/19/2025,
+05/18/2025,
+05/17/2025,
+05/09/2025,
+05/08/2025,
+05/07/2025,
+05/04/2025,
+05/03/2025,
+05/01/2025,
+04/29/2025,
+04/28/2025,
+06/29/2025,
+06/22/2025,
+06/15/2025,
+06/09/2025,
+06/08/2025,
+06/01/2025,
+05/25/2025,
+05/18/2025,
+05/17/2025,
+05/11/2025,
+05/04/2025,
+04/27/2025,
+04/25/2025,
+04/22/2025,
+04/20/2025,
+04/13/2025,
+04/06/2025,
+03/31/2025,
+03/30/2025,
+03/23/2025,
+03/16/2025,
+03/09/2025,
+02/23/2025,
+02/16/2025,
+02/09/2025,
+02/02/2025,
+01/26/2025,
+01/23/2025,
+01/19/2025,
+01/17/2025,
+01/12/2025,
+01/05/2025,
+12/29/2024,
+12/23/2024,
+12/22/2024,
+12/15/2024,
+12/08/2024,
+12/01/2024,
+11/25/2024,
+11/24/2024,
+11/17/2024,
+11/10/2024,
+11/03/2024,
+10/27/2024,
+10/20/2024,
+10/13/2024,
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI35/44
+
+04/27/2025,
+04/25/2025,
+04/24/2025,
+04/23/2025,
+04/22/2025,
+04/18/2025,
+04/12/2025,
+04/09/2025,
+04/08/2025,
+04/06/2025,
+04/05/2025,
+04/02/2025,
+04/01/2025,
+03/29/2025,
+03/28/2025,
+03/27/2025,
+03/20/2025,
+03/17/2025,
+03/16/2025,
+03/15/2025,
+03/12/2025,
+03/10/2025,
+03/06/2025,
+03/01/2025,
+02/28/2025,
+02/27/2025,
+02/18/2025,
+02/17/2025,
+02/15/2025,
+02/10/2025,
+02/09/2025,
+02/08/2025,
+02/06/2025,
+02/01/2025,
+01/29/2025,
+01/26/2025,
+01/24/2025,
+01/22/2025,
+01/18/2025,
+01/11/2025,
+01/09/2025,
+01/06/2025,
+01/05/2025,
+01/01/2025,
+12/31/2024,
+12/20/2024,
+10/06/2024,
+09/29/2024,
+09/24/2024,
+09/22/2024 an
+d 09/15/2024
+475 ANTON
+BLVD,
+COSTA MESA
+CA 92626
+(866) 431-3471
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI36/44
+
+12/17/2024,
+12/14/2024,
+12/12/2024,
+12/11/2024,
+12/10/2024,
+12/09/2024,
+12/08/2024,
+12/02/2024,
+12/01/2024,
+11/30/2024,
+11/28/2024,
+11/27/2024,
+11/26/2024,
+11/19/2024,
+11/18/2024,
+11/09/2024,
+11/08/2024,
+11/07/2024,
+11/05/2024,
+11/04/2024,
+11/03/2024,
+11/01/2024,
+10/30/2024,
+10/29/2024,
+10/26/2024,
+10/24/2024,
+10/20/2024,
+10/13/2024,
+10/12/2024,
+10/10/2024,
+10/09/2024,
+10/07/2024,
+10/06/2024,
+10/05/2024,
+10/01/2024,
+09/29/2024,
+09/27/2024,
+09/25/2024,
+09/23/2024,
+09/22/2024,
+09/20/2024 an
+d 09/19/2024
+760 MARKET
+ST FL 2,
+SAN
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI37/44
+
+FRANCISCO CA
+94102
+(415) 510-5272
+EXPERIAN
+Inquired on
+09/12/2025,
+08/15/2025,
+08/06/2025,
+07/25/2025,
+07/12/2025,
+07/08/2025,
+06/18/2025,
+06/05/2025,
+05/29/2025,
+05/18/2025,
+05/16/2025,
+04/22/2025,
+04/18/2025,
+04/05/2025,
+03/14/2025,
+03/05/2025,
+02/28/2025,
+02/15/2025,
+02/08/2025,
+02/06/2025,
+01/28/2025,
+01/25/2025,
+01/11/2025,
+01/10/2025,
+01/08/2025,
+01/05/2025,
+01/04/2025,
+12/11/2024,
+12/08/2024,
+11/27/2024,
+11/19/2024,
+11/09/2024,
+11/06/2024,
+10/29/2024,
+10/12/2024,
+10/05/2024 an
+d 09/28/2024
+475 ANTON
+BLVD,
+EXPERIAN
+CREDITMATCH
+Inquired on
+07/04/2025,
+06/09/2025,
+05/17/2025,
+04/25/2025,
+04/22/2025,
+03/31/2025,
+01/23/2025,
+01/17/2025,
+11/25/2024 an
+d 09/24/2024
+475 ANTON
+BLVD # D4,
+COSTA MESA
+CA 92626
+JPMCB
+Inquired on
+08/29/2025,
+07/31/2025,
+07/01/2025,
+05/31/2025,
+04/30/2025,
+04/01/2025,
+03/01/2025,
+02/01/2025,
+01/02/2025,
+12/01/2024,
+11/01/2024 an
+d 10/01/2024
+PO BOX 15298,
+WILMINGTON
+DE 19850
+(800) 432-3117
+JPMCB CARD
+Inquired on
+09/04/2025
+PO BOX 15298,
+WILMINGTON
+DE 19850
+(800) 432-3117
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI38/44
+
+Important Messages
+COSTA MESA
+CA 92626
+JPMCB CJ
+Inquired on
+09/10/2025,
+08/13/2025,
+07/16/2025,
+06/18/2025,
+05/21/2025,
+04/23/2025,
+03/26/2025,
+02/26/2025,
+01/28/2025,
+01/05/2025,
+12/30/2024,
+12/09/2024,
+12/01/2024,
+11/02/2024 an
+d 10/03/2024
+PO BOX 15298,
+WILMINGTON
+DE 19850
+(888) 401-0550
+CESER WA
+Inquired on
+07/11/2025
+444 N CAPITOL
+ST NW STE 300,
+WASHINGTON
+DC 20001
+ONEMAIN
+Inquired on
+06/16/2025
+PO BOX 1010,
+EVANSVILLE IN
+47706
+(844) 298-9773
+SOFI BANK NA
+Inquired on
+07/11/2025,
+06/10/2025,
+04/16/2025,
+03/13/2025 an
+d 01/21/2025
+2750 E
+COTTONWOOD
+PKWY,
+COTTONWOOD
+HEIGHTS UT
+84121
+(855) 456-7634
+WFBNA CARD
+Inquired on
+09/08/2025,
+05/12/2025,
+03/11/2025,
+01/08/2025 an
+d 11/11/2024
+PO BOX 14579,
+DES MOINES IA
+50306
+(844) 274-7841
+WFBNA CARD
+Inquired on
+07/07/2025
+PO BOX 14579,
+DES MOINES IA
+50306
+(844) 274-7841
+WFBNA HL
+Inquired on
+09/03/2025
+PO BOX 29482,
+DES MOINES IA
+50306
+(800) 288-3212
+Medical Information
+By law, we cannot disclose certain medical information (relating to physical, mental, or behavioral
+health or condition). Although we do not generally collect such information, it could appear in the
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI39/44
+
+Contact Experian
+Know Your Rights
+name of a data furnisher (i.e., "Cancer Center") that reports your payment history to us. If so, those
+names display on your report, but on reports to others they display only as "MEDICAL PAYMENT
+DATA." Consumer statements included on your report at your request that contain medical
+information are disclosed to others.
+Public Records Information
+If your report contains public records, the Public Records section includes items from courts that
+Experian may have obtained through a third party vendor, LexisNexis Risk Data Management Inc.  You
+may contact them at LexisNexis Consumer Center, PO Box 105615, Atlanta, GA 30348-5108, or visit
+https://experianconsumers.lexisnexis.com .
+Online
+Visit Experian.com/dispute to dispute any
+inaccurate information, or click the dispute link
+next to the item. For FAQs and online access to
+your Experian Credit Report, Fraud Alerts, and
+Security Freezes, visit Experian.com/help
+Phone
+Monday - Friday
+9am to 5pm
+(855) 414-6047
+Mail
+Experian
+PO Box 9701
+Allen, TX 75013
+Fair Credit Reporting Act (FCRA)
+Para información en español, visite www.consumerfinance.gov/learnmore o escribe a la Consumer
+Financial Protection Bureau, 1700 G Street N.W., Washington, D.C. 20552.
+A Summary of Your Rights Under the Fair Credit Reporting Act.
+The federal Fair Credit Reporting Act (FCRA) promotes the accuracy, fairness, and privacy of
+information in the files of consumer reporting agencies. There are many types of consumer reporting
+agencies, including credit bureaus and specialty agencies (such as agencies that sell information
+about check writing histories, medical records, and rental history records). Here is a summary of your
+major rights under the FCRA. For more information, including information about additional rights, go
+to www.consumerfinance.gov/learnmore or write to: Consumer Financial Protection Bureau, 1700 G
+Street N.W., Washington, D.C. 20552.
+You must be told if information in your file has been used against you. Anyone who uses a credit
+report or another type of consumer report to deny your application for credit, insurance, or
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI40/44
+
+employment — or to take another adverse action against you — must tell you, and must give you the
+name, address, and phone number of the agency that provided the information.
+You have the right to know what is in your file. You may request and obtain all the information about
+you in the files of a consumer reporting agency (your "file disclosure"). You will be required to provide
+proper identification, which may include your Social Security number. In many cases, the disclosure
+will be free. You are entitled to a free file disclosure if:
+a person has taken adverse action against you because of information in your credit report;
+you are the victim of identity theft and place a fraud alert in your file;
+your file contains inaccurate information as a result of fraud;
+you are on public assistance;
+you are unemployed but expect to apply for employment within 60 days.
+In addition, all consumers are entitled to one free disclosure every 12 months upon request from each
+nationwide credit bureau and from nationwide specialty consumer reporting agencies. See
+www.consumerfinance.gov/learnmore for additional information.
+You have the right to ask for a credit score. Credit scores are numerical summaries of your
+creditworthiness based on information from credit bureaus. You may request a credit score from
+consumer reporting agencies that create scores or distribute scores used in residential real property
+loans, but you will have to pay for it. In some mortgage transactions, you will receive credit score
+information for free from the mortgage lender.
+You have the right to dispute incomplete or inaccurate information. If you identify information in your
+file that is incomplete or inaccurate, and report it to the consumer reporting agency, the agency must
+investigate unless your dispute is frivolous. See www.consumerfinance.gov/learnmore for an
+explanation of dispute procedures.
+Consumer reporting agencies must correct or delete inaccurate, incomplete, or unverifiable
+information. Inaccurate, incomplete or unverifiable information must be removed or corrected,
+usually within 30 days. However, a consumer reporting agency may continue to report information it
+has verified as accurate.
+Consumer reporting agencies may not report outdated negative information. In most cases, a
+consumer reporting agency may not report negative information that is more than seven years old, or
+bankruptcies that are more than 10 years old.
+Access to your file is limited. A consumer reporting agency may provide information about you only
+to people with a valid need — usually to consider an application with a creditor, insurer, employer,
+landlord, or other business. The FCRA specifies those with a valid need for access.
+You must give your consent for reports to be provided to employers. A consumer reporting agency
+may not give out information about you to your employer, or a potential employer, without your written
+consent given to the employer. Written consent generally is not required in the trucking industry. For
+more information, go to www.consumerfinance.gov/learnmore.
+You may limit "prescreened" offers of credit and insurance you get based on information in your
+credit report. Unsolicited "prescreened" offers for credit and insurance must include a toll-free phone
+number you can call if you choose to remove your name and address from the lists these offers are
+based on. You may opt-out with the nationwide credit bureaus at 1 888 5OPTOUT (1 888 567 8688).
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI41/44
+
+You may seek damages from violators. If a consumer reporting agency, or, in some cases, a user of
+consumer reports or a furnisher of information to a consumer reporting agency violates the FCRA,
+you may be able to sue in state or federal court.
+Identity theft victims and active duty military personnel have additional rights. For more Information,
+visit www.consumerfinance.gov/learnmore.
+Consumers Have The Right To Obtain A Security Freeze
+You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer
+reporting agency from releasing information in your credit report without your express authorization.
+The security freeze is designed to prevent credit, loans, and services from being approved in your
+name without your consent. However, you should be aware that using a security freeze to take control
+over who gets access to the personal and financial information in your credit report may delay,
+interfere with, or prohibit the timely approval of any subsequent request or application you make
+regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
+As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on
+your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer's credit
+file. Upon seeing a fraud alert display on a consumer's credit file, a business is required to take steps
+to verify the consumer's identity before extending new credit. If you are a victim of identity theft, you
+are entitled to an extended fraud alert, which is a fraud alert lasting 7 years.
+A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on
+behalf of the person or entity, with which you have an existing account that requests information in
+your credit report for the purposes of reviewing or collecting the account. Reviewing the account
+includes activities related to account maintenance, monitoring, credit line increases, and account
+upgrades and enhancements.
+States may enforce the FCRA, and many states have their own consumer reporting laws. In some
+cases, you may have more rights under state law. For more information, contact your state or local
+consumer protection agency or your state Attorney General. For more information about your
+federal rights, contact:
+FOR QUESTIONS OR CONCERNS REGARDING:PLEASE CONTACT:
+1.a. Banks, savings associations, and credit unions with
+total assets of over $10 billion and their affiliates.
+b. Such affiliates that are not banks, savings associations,
+or credit unions also should list in addition to the Bureau:
+a. Bureau of Consumer
+Financial Protection
+1700 G Street NW
+Washington, DC 20552
+b. Federal Trade Commission
+Consumer Response Center
+600 Pennsylvania Avenue NW
+Washington, DC 20580
+2. To the extent not included in item 1 above:a. Office of the Comptroller of
+the Currency
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI42/44
+
+a. National banks, federal savings associations, and federal
+branches and federal agencies of foreign banks
+b. State member banks, branches and agencies of foreign
+banks (other than federal branches, federal agencies, and
+insured state branches of foreign banks), commercial
+lending companies owned or controlled by foreign banks,
+and organizations operating under section 25 or 25A of the
+Federal Reserve Act
+c. Nonmember Insured banks, Insured State Branches of
+Foreign Banks, and insured state savings associations
+d. Federal Credit Unions
+Customer Assistance Group
+P.O. Box 53570
+Houston, TX 77052
+b. Federal Reserve Consumer
+Help Center
+PO Box 1200
+Minneapolis, MN 55480
+c. Division of Depositor and
+Consumer Protection
+National Center for Consumer
+and Depositor Assistance
+Federal Deposit Insurance
+Corporation
+1100 Walnut Street, Box #11
+Kansas City, MO 64106
+d. National Credit Union
+Administration
+Office of Consumer Financial
+Protection
+1775 Duke Street
+Alexandria, VA 22314
+3. Air carriersAssistant General Counsel for
+Office of Aviation Consumer
+Protection
+Department of Transportation
+1200 New Jersey Avenue SE
+Washington, DC 20590
+4. Creditors Subject to Surface Transportation BoardOffice of Public Assistance,
+Governmental Affairs, and
+Compliance
+Surface Transportation Board
+395 E Street SW
+Washington, DC 20423
+5. Creditors Subject to Packers and Stockyards ActNearest Packers and
+Stockyards Division Regional
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI43/44
+
+Office
+6. Small Business Investment CompaniesAssociate Administrator, Office
+of Capital Access
+United States Small Business
+Administration
+409 Third Street SW, Suite 8200
+Washington, DC 20416
+7. Brokers and DealersSecurities and Exchange
+Commission
+100 F Street NE
+Washington, DC 20549
+8. Federal Land Banks, Federal Land Bank Associations,
+Federal Intermediate Credit Banks, and Production Credit
+Associations
+Farm Credit Administration
+1501 Farm Credit Drive
+McLean, VA 22102-5090
+9. Retailers, Finance Companies, and All Other Creditors
+Not Listed Above
+FTC Regional Office for region
+in which the creditor operates
+or Federal Trade Commission:
+Consumer Response Center -
+FCRA
+Washington, DC 20580
+(877) 382-4357
+Notification of Rights
+Notification of Rights for California Consumers
+Notification of Rights for Colorado Consumers
+Notification of Rights for Connecticut Consumers
+Notification of Rights for Maryland Consumers
+Notification of Rights for Massachusetts Consumers
+Notification of Rights for Texas Consumers
+Notification of Rights for Vermont Consumers
+Notification of Rights for Washington Consumers
+9/15/25, 1:04 PMAnnual Credit Report - Experian
+https://usa.experian.com/acr/printReport?type=CDI44/44

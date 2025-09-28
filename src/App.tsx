@@ -8,6 +8,7 @@ import { ActionDetailScreen } from './components/screens/ActionDetailScreen';
 import { HistoryScreen } from './components/screens/HistoryScreen';
 import { SettingsScreen } from './components/screens/SettingsScreen';
 import { Toaster } from './components/ui/sonner';
+import type { AnalysisResponse } from '@/types/credit';
 
 export type Screen = 'landing' | 'auth' | 'upload' | 'parsing' | 'results' | 'action-detail' | 'history' | 'settings';
 
@@ -45,6 +46,7 @@ export interface AppState {
   creditScore: number;
   totalDebt: number;
   monthlyPayments: number;
+  analysis?: AnalysisResponse;
 }
 
 export default function App() {
@@ -59,6 +61,7 @@ export default function App() {
     creditScore: 0,
     totalDebt: 0,
     monthlyPayments: 0,
+    analysis: undefined,
   });
 
   const navigateTo = (screen: Screen) => {
