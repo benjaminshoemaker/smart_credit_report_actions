@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { Button } from '../ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '../ui/card';
 import { Badge } from '../ui/badge';
@@ -9,6 +9,8 @@ import { SummaryCard } from '../common/SummaryCard';
 import { ActionCard } from '../common/ActionCard';
 import { DebtTable } from '../common/DebtTable';
 import type { Screen, AppState, CreditAction } from '../../App';
+import type { AnalysisResponse, Account } from '@/types/credit';
+import { currency, percent } from '@/lib/format';
 
 interface ResultsScreenProps {
   onNavigate: (screen: Screen) => void;
@@ -66,11 +68,37 @@ export function ResultsScreen({ onNavigate, state, updateState }: ResultsScreenP
   const [filterEffort, setFilterEffort] = useState<string>('all');
   const [sortBy, setSortBy] = useState<string>('savings');
 
-  const totalMonthlySavings = state.actions.reduce((sum, action) => sum + (action.estimatedSavings / 12), 0);
-  const totalScoreImpact = state.actions.reduce((sum, action) => sum + (action.scoreImpact || 0), 0);
-  const riskFlags = state.actions.filter(action => action.category === 'security' || action.impact === 'High').length;
+  const analysis: AnalysisResponse | undefined = state.analysis;
 
-  const filteredActions = state.actions
+  // Map server-provided actions (if analysis exists) to UI CreditAction shape
+  const actionsForDisplay: CreditAction[] = useMemo(() => {
+    if (analysis?.actions?.length) {
+      return (analysis.actions as any[]).map((a: any) => ({
+        id: String(a.id ?? a.title ?? Math.random().toString(36).slice(2)),
+        name: a.title || 'Recommended action',
+        category: 'analysis',
+        description: a.rationale || '',
+        estimatedSavings: Math.max(0, Math.round((a.estSavingsMonthly || 0) * 12)),
+        timeToComplete: '10 min',
+        effort: 'Medium',
+        impact: String(a.impact || 'medium').toLowerCase() === 'high'
+          ? 'High'
+          : String(a.impact || 'medium').toLowerCase() === 'low'
+          ? 'Low'
+          : 'Medium',
+        scoreImpact: 0,
+        steps: Array.isArray(a.steps) ? a.steps : [],
+        requiredInputs: [],
+      }));
+    }
+    return state.actions;
+  }, [analysis, state.actions]);
+
+  const totalMonthlySavings = actionsForDisplay.reduce((sum, action) => sum + (action.estimatedSavings / 12), 0);
+  const totalScoreImpact = actionsForDisplay.reduce((sum, action) => sum + (action.scoreImpact || 0), 0);
+  const riskFlags = actionsForDisplay.filter(action => action.category === 'security' || action.impact === 'High').length;
+
+  const filteredActions = actionsForDisplay
     .filter(action => {
       if (filterGoal !== 'all') {
         if (filterGoal === 'cash-flow' && action.estimatedSavings === 0) return false;
@@ -138,27 +166,55 @@ export function ResultsScreen({ onNavigate, state, updateState }: ResultsScreenP
       <div className="container mx-auto px-4 py-6 max-w-7xl">
         {/* Summary Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-          <SummaryCard
-            title="Est. Monthly Cash Impact"
-            value={`$${Math.round(totalMonthlySavings)}`}
-            subtitle="From recommended actions"
-            icon={DollarSign}
-            trend="up"
-          />
-          <SummaryCard
-            title="Est. Score Impact"
-            value={`+${totalScoreImpact}`}
-            subtitle="Points over 3-6 months"
-            icon={TrendingUp}
-            trend="up"
-          />
-          <SummaryCard
-            title="Risk Flags"
-            value={riskFlags.toString()}
-            subtitle="High-priority security items"
-            icon={AlertTriangle}
-            trend={riskFlags > 2 ? 'down' : 'neutral'}
-          />
+          {analysis?.totals ? (
+            <>
+              <SummaryCard
+                title="Overall Utilization"
+                value={percent(analysis.totals.overallUtilization || 0, 0)}
+                subtitle="Across revolving accounts"
+                icon={TrendingUp}
+                trend={(analysis.totals.overallUtilization || 0) > 0.3 ? 'down' : 'up'}
+              />
+              <SummaryCard
+                title="Total Balances"
+                value={currency(Math.round(analysis.totals.totalBalances || 0))}
+                subtitle="Sum of balances"
+                icon={DollarSign}
+                trend="neutral"
+              />
+              <SummaryCard
+                title="Total Limits"
+                value={currency(Math.round(analysis.totals.totalLimits || 0))}
+                subtitle="Sum of credit limits"
+                icon={DollarSign}
+                trend="neutral"
+              />
+            </>
+          ) : (
+            <>
+              <SummaryCard
+                title="Est. Monthly Cash Impact"
+                value={`$${Math.round(totalMonthlySavings)}`}
+                subtitle="From recommended actions"
+                icon={DollarSign}
+                trend="up"
+              />
+              <SummaryCard
+                title="Est. Score Impact"
+                value={`+${totalScoreImpact}`}
+                subtitle="Points over 3-6 months"
+                icon={TrendingUp}
+                trend="up"
+              />
+              <SummaryCard
+                title="Risk Flags"
+                value={riskFlags.toString()}
+                subtitle="High-priority security items"
+                icon={AlertTriangle}
+                trend={riskFlags > 2 ? 'down' : 'neutral'}
+              />
+            </>
+          )}
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -282,65 +338,94 @@ export function ResultsScreen({ onNavigate, state, updateState }: ResultsScreenP
 
         {/* Detailed Tables */}
         <div className="mt-8">
-          <Tabs defaultValue="debts" className="w-full">
-            <TabsList>
-              <TabsTrigger value="debts">Debts & Rates</TabsTrigger>
-              <TabsTrigger value="inquiries">Inquiries & Negatives</TabsTrigger>
-              <TabsTrigger value="loans">Other Loans</TabsTrigger>
-            </TabsList>
-            
-            <TabsContent value="debts" className="mt-4">
-              <DebtTable debts={MOCK_DEBTS} />
-            </TabsContent>
-            
-            <TabsContent value="inquiries" className="mt-4">
-              <Card>
-                <CardHeader>
-                  <CardTitle>Credit Inquiries & Negative Items</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="space-y-4">
-                    {MOCK_INQUIRIES.map((inquiry, index) => (
-                      <div key={index} className="flex items-center justify-between p-3 border rounded-lg">
-                        <div>
-                          <p className="font-medium">{inquiry.creditor}</p>
-                          <p className="text-sm text-muted-foreground">{inquiry.type} inquiry</p>
+          {analysis?.accounts ? (
+            <Card>
+              <CardHeader>
+                <CardTitle>Revolving Accounts</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="overflow-x-auto">
+                  <table className="w-full text-sm">
+                    <thead>
+                      <tr className="text-left border-b">
+                        <th className="py-2 pr-4">Issuer</th>
+                        <th className="py-2 pr-4">Balance</th>
+                        <th className="py-2 pr-4">Limit</th>
+                        <th className="py-2 pr-4">Utilization</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {analysis.accounts.map((a: Account, idx: number) => (
+                        <tr key={idx} className="border-b last:border-0">
+                          <td className="py-2 pr-4">{a.issuer || 'Unknown'}</td>
+                          <td className="py-2 pr-4">{currency(a.balance || 0)}</td>
+                          <td className="py-2 pr-4">{currency(a.creditLimit || 0)}</td>
+                          <td className="py-2 pr-4">{percent(a.perCardUtilization || 0)}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </CardContent>
+            </Card>
+          ) : (
+            <Tabs defaultValue="debts" className="w-full">
+              <TabsList>
+                <TabsTrigger value="debts">Debts & Rates</TabsTrigger>
+                <TabsTrigger value="inquiries">Inquiries & Negatives</TabsTrigger>
+                <TabsTrigger value="loans">Other Loans</TabsTrigger>
+              </TabsList>
+              <TabsContent value="debts" className="mt-4">
+                <DebtTable debts={MOCK_DEBTS} />
+              </TabsContent>
+              <TabsContent value="inquiries" className="mt-4">
+                <Card>
+                  <CardHeader>
+                    <CardTitle>Credit Inquiries & Negative Items</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="space-y-4">
+                      {MOCK_INQUIRIES.map((inquiry, index) => (
+                        <div key={index} className="flex items-center justify-between p-3 border rounded-lg">
+                          <div>
+                            <p className="font-medium">{inquiry.creditor}</p>
+                            <p className="text-sm text-muted-foreground">{inquiry.type} inquiry</p>
+                          </div>
+                          <div className="text-right">
+                            <p className="text-sm">{new Date(inquiry.date).toLocaleDateString()}</p>
+                            <Badge variant="outline" className="text-xs">Hard Inquiry</Badge>
+                          </div>
                         </div>
-                        <div className="text-right">
-                          <p className="text-sm">{new Date(inquiry.date).toLocaleDateString()}</p>
-                          <Badge variant="outline" className="text-xs">Hard Inquiry</Badge>
+                      ))}
+                    </div>
+                  </CardContent>
+                </Card>
+              </TabsContent>
+              <TabsContent value="loans" className="mt-4">
+                <Card>
+                  <CardHeader>
+                    <CardTitle>Mortgage, Auto & Student Loans</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="space-y-4">
+                      {MOCK_DEBTS.filter(debt => debt.type !== 'Credit Card').map(debt => (
+                        <div key={debt.id} className="flex items-center justify-between p-3 border rounded-lg">
+                          <div>
+                            <p className="font-medium">{debt.issuer}</p>
+                            <p className="text-sm text-muted-foreground">{debt.type}</p>
+                          </div>
+                          <div className="text-right">
+                            <p className="font-medium">${debt.balance.toLocaleString()}</p>
+                            <p className="text-sm text-muted-foreground">{debt.apr}% APR</p>
+                          </div>
                         </div>
-                      </div>
-                    ))}
-                  </div>
-                </CardContent>
-              </Card>
-            </TabsContent>
-            
-            <TabsContent value="loans" className="mt-4">
-              <Card>
-                <CardHeader>
-                  <CardTitle>Mortgage, Auto & Student Loans</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="space-y-4">
-                    {MOCK_DEBTS.filter(debt => debt.type !== 'Credit Card').map(debt => (
-                      <div key={debt.id} className="flex items-center justify-between p-3 border rounded-lg">
-                        <div>
-                          <p className="font-medium">{debt.issuer}</p>
-                          <p className="text-sm text-muted-foreground">{debt.type}</p>
-                        </div>
-                        <div className="text-right">
-                          <p className="font-medium">${debt.balance.toLocaleString()}</p>
-                          <p className="text-sm text-muted-foreground">{debt.apr}% APR</p>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </CardContent>
-              </Card>
-            </TabsContent>
-          </Tabs>
+                      ))}
+                    </div>
+                  </CardContent>
+                </Card>
+              </TabsContent>
+            </Tabs>
+          )}
         </div>
       </div>
     </div>
