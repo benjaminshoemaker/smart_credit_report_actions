@@ -1,0 +1,6 @@
+# Core runtime dependencies for PDF parsing and modeling
+pydantic>=2.5,<3
+pdfminer.six>=20221105
+pymupdf>=1.23
+typing-extensions>=4.6
+
